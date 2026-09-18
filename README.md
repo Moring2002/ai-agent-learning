@@ -39,6 +39,7 @@ Production System
 ## 仓库结构
 
 - `AI-Agent-架构学习大纲.md`：课程主线
+- `ENVIRONMENT.md`：开发环境与自检要求
 - `COURSE-STATE.md`：当前进度
 - `STUDY-LOG.md`：学习打卡
 - `exercises/`：每课实验与作业
@@ -58,3 +59,9 @@ Production System
 以 GitHub Repository 作为真实对象，逐步加入：
 
 React → FastAPI → LLM → RAG → GitHub Tools → Planning → Memory → Runtime → Eval
+
+## 环境
+
+正式开始前请先查看 **[ENVIRONMENT.md](./ENVIRONMENT.md)**。
+
+课程环境原则：能跑实验即可，不提前安装大量 Agent 框架；学习重点放在系统架构与机制。
